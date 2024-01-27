@@ -7,8 +7,7 @@
         {
             "name": "Dart & Flutter",
             "request": "launch",
-            "type": "dart",
-            "program": "basic_dart/part4.dart"
+            "type": "dart"
         }
     ]
 }
