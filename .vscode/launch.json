@@ -8,7 +8,9 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            //"program" :"Dart/02_control_loops_operator/part1.dart"
+            //"program" :"Dart/02_control_loops_operator/part1.dart" --> istediğin dosyayı çalıştırma
+            "program": "${file}", //o an açık olan dosyayı çalıştırma
+            "console": "terminal", //veri girişi için konsol artık terminalede çalışsın
         }
     ]
 }
