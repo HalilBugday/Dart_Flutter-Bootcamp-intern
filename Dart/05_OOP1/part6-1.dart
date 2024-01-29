@@ -12,6 +12,9 @@ void main(List<String> args) {
 
   Customer person1 = Customer(56);
   person1.printInfo();
+  person1.custNoAssign = 952;
+  person1.printInfo();
+  print(person1.custNoGet);
 
   bool result = db.connect();
   if (result) {
