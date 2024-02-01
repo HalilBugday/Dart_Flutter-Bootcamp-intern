@@ -3,16 +3,24 @@ import 'dart:io';
 void main(List<String> args) {
   //https://dart.dev/guides --> everything about dart!!!
   /* then, catchError, whenComplete */
+  //Triggered when the build is ready -> then
+  //whenCompleted -> like finally (will run always)
 
   print("The mother sends her child to the market.");
-  longTermProcess();
+  Future<String> result = longTermProcess();
+
+  result.then((String value) => print(value)).catchError((error) {
+    print("An error");
+  }).whenComplete(() => print("Program ended"));
+
   print("Mother prepares food.");
   print("Lunch is ready.");
 }
 
-void longTermProcess() {
+Future<String> longTermProcess() {
   print("The child leaves the house to buy bread.");
-  Future.delayed(Duration(seconds: 5), () {
-    print("The child enters the house with bread.");
+  Future<String> result = Future.delayed(Duration(seconds: 3), () {
+    return "The child enters the house with bread.";
   });
+  return result;
 }
