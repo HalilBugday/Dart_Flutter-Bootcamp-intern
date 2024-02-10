@@ -1,0 +1,308 @@
+[
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Mercedes",
+        "ulke":"Almanya",
+        "kurulus_yil": 1920,
+        "model": [
+            {
+                "model_adi":"a serisi",
+                "fiyat":15000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"c serisi",
+                "fiyat":25000,
+                "benzinli":false
+            }
+        ]
+    },
+    {
+        "araba_adi": "Honda",
+        "ulke":"Japonya",
+        "kurulus_yil": 1960,
+        "model": [
+            {
+                "model_adi":"civic",
+                "fiyat":12000,
+                "benzinli":true
+            },
+            {
+                "model_adi":"jazz",
+                "fiyat":10000,
+                "benzinli":false
+            }
+        ]
+    }
+]
