@@ -77,7 +77,7 @@ class _AnaSayfaState extends State<AnaSayfa> with SingleTickerProviderStateMixin
         backgroundColor: Colors.transparent,
         elevation: 0,
         title: const Text(
-          'Moda Uygulaması',
+          'PAU social media',
           style: TextStyle(fontFamily: 'Montserrat', fontSize: 22, color: Colors.black, fontWeight: FontWeight.bold),
         ),
         actions: <Widget>[
